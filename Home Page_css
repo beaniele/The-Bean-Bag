@@ -8,11 +8,18 @@ h2 {
 h4 {
     color:darkmagenta
 }
+h3 {
+    color:aliceblue
+}
+h5 {
+    text-align: left;
+    color: darkmagenta;
+}
 p {
     color:darkmagenta
 }
 body {
     text-align: center;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: Consolas;
     background: rgb(209, 183, 253)
 }
