@@ -21,7 +21,9 @@ main img{
     border-radius: 10px;
 }
 main p{
-    font-size: 10px;
+    font-size: 15px;
+    margin-left: 40px;
+    margin-right: 40px;
 }
 div{
     padding: 10px;
